@@ -15,7 +15,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "file-system": "^2.2.2",
-    "formidable": "^1.2.2",
+    "formidable": "^3.2.4",
     "jimp": "^0.16.1",
     "mammoth": "^1.4.16",
     "pdf-to-base64": "^1.0.3",
